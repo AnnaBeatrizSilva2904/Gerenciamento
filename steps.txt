@@ -7,7 +7,7 @@ git config --global user.email annabeatryz2504@gmail.com
 Criando um projeto Web API com .net9:
  - dotnet new webapi -o Gerenciamento.API --use-controllers
 
- dotnet add package Microsoft.EntityFrameworkCore --version 9.0.8
+dotnet add package Microsoft.EntityFrameworkCore --version 9.0.8
 dotnet add package Microsoft.EntityFrameworkCore.Design --version 9.0.8
 dotnet add package Microsoft.EntityFrameworkCore.Tools --version 9.0.8
 dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore --version 9.0.8
